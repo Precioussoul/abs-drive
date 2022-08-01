@@ -1,0 +1,48 @@
+.welcome-logo {
+  text-align: center;
+}
+.welcome-text {
+  line-height: 2;
+  font-size: 20px;
+  text-align: center;
+  color: rgba(88, 88, 88, 0.87);
+  margin-bottom: 20px;
+
+  &.dark {
+    color: #ddd;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 15px;
+  }
+}
+.welcome-pointers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.welcome-image {
+  width: 150px;
+  height: 150px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+}
+
+.welcome-close-btn {
+  position: absolute;
+  top: 0;
+  right: 0px;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 4px;
+  color: black;
+  font-size: 40px;
+
+  &.dark {
+    color: #ccc;
+  }
+}
