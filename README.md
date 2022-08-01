@@ -142,7 +142,7 @@ https://hbs-drive.web.app/
     <img alt="hbs drive mobile" src="public/images/hbs-mob.png" width="auto" height="auto" />
      <img alt="hbs drive mobile" src="public/images/hbs-mob-app.png" width="auto" height="auto" />
 
-  <img alt="hbs drive desktop" src="public/images/hbs-desk.png" width="auto" height="auto" />
+  <img alt="hbs drive desktop" src="public/images/hbs-desk-white.png" width="auto" height="auto" />
 </div>
 
 ## 👨‍💻 Connect with me
