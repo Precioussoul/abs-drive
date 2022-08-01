@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img alt="myspace-logo" src="public/images/hbs-logo.png" width="180px" height="180px" />
 
-# Hbs Drive🌩️ - Habsof drive
+# ABS Drive🌩️ -  Abdullah Sofiyullah Drive
 
  <h3>A Cloud Based Drive Web Application.</h3>
 
@@ -35,8 +35,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Clone the repository on your local machine with the command below in your terminal, and cd into the **evolt-social** folder
 
 ```sh
-git clone https://github.com/Precioussoul/HBS-DRIVE.git
-cd HBS-DRIVE
+git clone https://github.com/Precioussoul/abs-drive.git
+cd abs-drive
+```
+- Download and  Install NodeJS on your local machine, check version after installation
+```sh
+node -v
+```
+- Download and  Install YARN on your local machine, check version after installation
+```sh
+yarn -v
 ```
 
 - Install dependencies (if you are using **yarn** then do with that)
@@ -151,9 +159,14 @@ https://abs-drive.web.app/
 <a href="https://www.linkedin.com/in/sofiyullah-abdullah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 © 2022 GitHub, Inc.
 
-## Learn More
+## Resource Links
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 To learn Firebase, check out the [Firebase documentation](https://firebase.google.com/docs).
+
+To Download NodeJS, check out the [NodeJS Installation](https://nodejs.org/en/).
+
+To Download YARN, check out the [YARN Installation](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable).
